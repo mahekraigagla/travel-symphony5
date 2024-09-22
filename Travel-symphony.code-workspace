@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"1": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"TUT23.C": "cpp",
+			"TUT5.C": "cpp",
+			"TUT7.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Mumbai-Tourism"
+	}
+}
